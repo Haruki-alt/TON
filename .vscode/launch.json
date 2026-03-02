@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open Index.html",
-            "file": "d:\\TON\\Index.html"
+            "name": "Open index.html",
+            "file": "d:\\TON\\index.html"
         }
     ]
 }
